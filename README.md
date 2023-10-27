@@ -1,1 +1,3 @@
-# boop-reconfigurable-social-interactive-robot
+# Boop: Reconfigurable Social Interactive Robot
+
+Placeholder text
